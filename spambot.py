@@ -26,8 +26,8 @@ class Client:
     def __init__(self,username,password,proxy):
         self.ses = Session()
         self.loggedIn = False
-        self.username = username
-        self.password = password
+        self.username = ohmismusty
+        self.password = mis277
         self.proxy = proxy
     
     def Login(self):
